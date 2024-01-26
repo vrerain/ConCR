@@ -1,6 +1,6 @@
-#### Enhancing Developer Intent for Code Search by Exploring Programming Context
+#### Enhancing Code Search Intent with Programming Context Exploration
 
-This is the code and dataset for paper *Enhancing Developer Intent for Code Search by Exploring Programming Context*.
+This is the code and dataset for paper *Enhancing Code Search Intent with Programming Context Exploration*.
 
 We provide the code for ConCR-GraphCodeBERT, and for other backbones, only need to replace all the encoders. Additionally, we provide 300 examples of data from CodeSearchNet-C for both Java and Python languages.
 
