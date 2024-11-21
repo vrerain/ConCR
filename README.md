@@ -2,7 +2,7 @@
 
 This is the code and dataset for paper *Enhancing Code Search Intent with Programming Context Exploration*.
 
-We provide the code for ConCR-GraphCodeBERT, and for other backbones, only need to replace all the encoders. Additionally, we provide 300 examples of data from CodeSearchNet-C for both Java and Python languages.
+We provide the code for ConCR-GraphCodeBERT, and for other backbones, only need to replace all the encoders. Additionally, we provide 300 examples of data from CodeSearchNet-C for both Java and Python languages, the complete data link is [here](https://pan.baidu.com/s/1GyK3SdPd84IzzbpRoW-Qqg?pwd=rc1t).
 
 Run the code with command
 
@@ -45,3 +45,17 @@ Detailed running arguments are available in `run.sh`.
     Field `levels`: Used for constructing CHT data structure. For example, as shown in the figure below, the root node is located at layer 0,  the level is defined as -1. Nodes v1-v6 are located at layer 1, the level is defined as 0. Nodes v7 and v8 are located at layer 2,  the level is defined as 1, and so on.
 
     ![image](dataset.png)
+
+
+
+If this code has been helpful to you, please cite our paper using the following format:
+
+```
+@inproceedings{dong2025concr,
+  title={Enhancing Code Search Intent with Programming Context Exploration},
+  author={Yanmin, Dong and Zhenya, Huang and Zheng, Zhang and Guanhao, Zhao and Likang, Wu and Hongke, Zhao and Binbin, Jin and Qi, Liu},
+  booktitle={The 18th ACM International Conference on Web Search and Data Mining},
+  year={2025}
+}
+```
+
