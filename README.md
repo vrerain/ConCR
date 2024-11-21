@@ -2,7 +2,7 @@
 
 This is the code and dataset for paper *Enhancing Code Search Intent with Programming Context Exploration*.
 
-We provide the code for ConCR-GraphCodeBERT, and for other backbones, only need to replace all the encoders. Additionally, we provide 300 examples of data from CodeSearchNet-C for both Java and Python languages, the complete data link is [here](https://pan.baidu.com/s/1GyK3SdPd84IzzbpRoW-Qqg?pwd=rc1t).
+We provide the code for ConCR-GraphCodeBERT, and for other backbones, only need to replace all the encoders. In this repository, we provide 300 examples from the CodeSearchNet-C dataset for both Java and Python. The complete dataset link is provided [here](https://pan.baidu.com/s/1GyK3SdPd84IzzbpRoW-Qqg?pwd=rc1t).
 
 Run the code with command
 
